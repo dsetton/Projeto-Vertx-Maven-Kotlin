@@ -10,7 +10,7 @@
 
     <properties>
         <kotlin.version>1.1.60</kotlin.version>
-        <exec.mainClass>io.jetbrains</exec.mainClass>
+        <exec.mainClass>io.jetbrains.Main</exec.mainClass>
 
     </properties>
 
